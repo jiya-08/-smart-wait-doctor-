@@ -1,2 +1,2 @@
-# smart-wait-doctor
+# -smart-wait-doctor-
 focuses on the smart waiting concept
