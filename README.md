@@ -1,2 +1,2 @@
-# -smart-wait-doctor-
+# Doctorrooms
 focuses on the smart waiting concept
